@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    background-color: gray;
+    
+
+}
+
+.card {
+    height: 500px;
+    width: 280px;
+    background-color: white;
+    margin: 164px 1px 0px 611px;
+    border-radius: 20px;
+
+    
+
+
+
+
+}
+.card img{
+    height: 200px;
+    width: 280px;
+    border-radius: 15px;
+
+
+}
+
+.caps span{
+    border: 1px solid black;
+    padding: 4px;
+    border-radius: 10px;
+    background-color: yellow;
+    
+    
+
+}
+.caps{
+    padding: 0 0 20px 30px;
+    font-size: 19px;
+    margin: 16px 0px 0px -21px
+    
+    
+}
+.content h2{
+    color: red;
+    padding: 0 0 16px 30px;
+    font-size: 35px;
+}
+
+.content p{
+    padding: 0 0 20px 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button{
+    text-align: center;
+}
+
+.button button{
+    padding: 5px;
+    border-radius: 15px;
+    background-color: rgb(146, 146, 235);
+    color: blue;
+    
+}
+
+
